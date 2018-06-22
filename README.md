@@ -39,3 +39,6 @@
 4) Таблица Led_KEGG_pathways.csv, содержащая идентификационные номера собранных транскриптов, которым присвоены идентификационные номера путей KEGG.
 
 Email: rimgubaev@gmail.com
+
+> We're living the future so
+> the present is our past.
