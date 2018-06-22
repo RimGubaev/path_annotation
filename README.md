@@ -40,4 +40,3 @@
 
 Email: rimgubaev@gmail.com
 
-`<addr>`
