@@ -77,3 +77,6 @@ Output:
 4) Table Led_KEGG_pathways.csv containing the identification numbers of the collected transcripts to which the identification numbers of the KEGG paths are assigned.
 
 Email: rimgubaev@gmail.com
+
+Literature:
+[Gubaev, R. F., Gorshkov, V. Y., Gapa, L. M., Gogoleva, N. E., Vetchinkina, E. P., & Gogolev, Y. V. (2018). Algorithm for Physiological Interpretation of Transcriptome Profiling Data for Non-Model Organisms. Molecular Biology, 52(4), 497-509.](https://doi.org/10.1134/S0026893318040076)
